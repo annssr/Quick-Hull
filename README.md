@@ -1,5 +1,6 @@
 # Quick-Hull
 Given a 2D point-cloud, enclose it with the smallest hull possible in O(n2) time.
+
 Source code on demand.
 
 * For setting up the program, place both the JAR and the input file in the desktop.
