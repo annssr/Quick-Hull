@@ -9,3 +9,10 @@ Source code on demand.
 * The input file's name must not be changed.
 * Double click on the JAR to start it up.
 * Once the JAR is running, press the spacebar key to iterate the process step by step. Each step creates a new line or erases an obsolete line, until the whole point-cloud is enclosed in a hull (convex polygon).
+
+## Video Demo
+
+
+
+https://github.com/user-attachments/assets/fc8d5d2e-b7e2-46eb-bf79-a2e447b1b0d3
+
